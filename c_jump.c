@@ -28,6 +28,6 @@
          scanf("%d",&s[i]); 
      }
      bfs(0);
-     printf("%d",ct);    //打印步数
+     printf(">>>>%d\n",ct);    //打印步数
      return 0;
  }
